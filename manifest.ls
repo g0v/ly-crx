@@ -5,8 +5,9 @@ version: '0.3.1'
 #background: scripts: <[background.js]>
 permissions:
   * 'http://*.ly.gov.tw/*'
-  * 'tabs'
-  * 'storage'
+  * 'http://*.ly.g0v.tw/*'
+  * \tabs
+  * \storage
 content_scripts: [
   matches: [
     'http://*.ly.gov.tw/*'
