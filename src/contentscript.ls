@@ -1,4 +1,3 @@
-console.log \content
 if 'misq.ly.gov.tw' is document.location.hostname
   $ document .find 'a[onclick*=queryBillDetail\\(]' .each ->
     $self = $ @
