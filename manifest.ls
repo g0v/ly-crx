@@ -1,7 +1,7 @@
 manifest_version: 2
 name: '立法院擴充'
 description: 'ly.gov.tw improvements from ly.g0v.tw'
-version: '0.3.2'
+version: '0.3.1'
 #background: scripts: <[background.js]>
 permissions:
   * 'http://*.ly.gov.tw/*'
