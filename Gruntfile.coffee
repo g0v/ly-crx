@@ -19,6 +19,8 @@ module.exports = (grunt) ->
         command: 'bower install'
       bowerdist:
         command: 'cp -f components/jquery/jquery.min.js dist/'
+      zip:
+        command: 'cd dist; zip -r ../ly.g0v.tw.zip .'
   grunt.loadNpmTasks 'grunt-contrib-uglify'
   grunt.loadNpmTasks 'grunt-livescript'
   grunt.loadNpmTasks 'grunt-contrib-clean'
