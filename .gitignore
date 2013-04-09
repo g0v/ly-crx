@@ -5,3 +5,4 @@ tmp
 components
 node_modules
 dist
+*.zip
