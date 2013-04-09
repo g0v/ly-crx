@@ -1,0 +1,7 @@
+tmp
+*~
+*.swp
+*.swo
+components
+node_modules
+dist
