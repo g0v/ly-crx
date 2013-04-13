@@ -1,6 +1,8 @@
 ly-crx
 ======
 
+[Install on chrome web store](https://chrome.google.com/webstore/detail/%E7%AB%8B%E6%B3%95%E9%99%A2%E6%93%B4%E5%85%85/ingofalhkimajgdgaplblnkhpenjhmpo?hl=en)
+
 Chrome extension for ly.gov.tw site improvements from ly.g0v.tw
 
 # Install
