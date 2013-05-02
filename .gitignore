@@ -6,3 +6,4 @@ components
 node_modules
 dist
 *.zip
+src/*.js
