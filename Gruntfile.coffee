@@ -12,7 +12,7 @@ module.exports = (grunt) ->
         ext: '.js'
     shell:
       manifest:
-        command: 'lsc -cj < manifest.ls > dist/manifest.json'
+        command: 'node_modules/.bin/lsc -cj < manifest.ls > dist/manifest.json'
       assets:
         command: 'cp -rf assets/* dist/'
       bower:
