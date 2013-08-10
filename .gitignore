@@ -7,3 +7,5 @@ node_modules
 dist
 *.zip
 src/*.js
+
+bower_components
