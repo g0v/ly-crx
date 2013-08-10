@@ -19,3 +19,4 @@ devDependencies:
   'grunt-contrib-uglify': \*
   'grunt-contrib-clean': \*
   'grunt-livescript': \*
+  'grunt-shell': \*
